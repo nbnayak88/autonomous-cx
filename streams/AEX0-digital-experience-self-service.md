@@ -1,11 +1,22 @@
 # AEX0 — Digital Experience & Self-Service
 
-**APQC CX Process Area:** Digital Experience & Self-Service
-**CX Capability Area:** Portals, Mobile, Communities
+**APQC CX Process Area:** Digital Experience & Self-Service  
+**CX Capability Area:** Portals, Mobile, Communities  
+**Bootcamp:** **Architecting Digital Customer Experiences**
 
 ## Purpose
 
 Define the capability and architecture boundary for Digital Experience & Self-Service within the Autonomous CX enterprise.
+
+## Bootcamp Focus
+
+**Architecting Digital Customer Experiences** creates seamless digital journeys that allow customers to discover, transact and resolve needs with minimal friction.
+
+- Digital portals and mobile experiences
+- Customer communities
+- Digital self-service
+- Journey and interaction orchestration
+- Personalized and context-aware experiences
 
 ## Capability Scope
 
@@ -19,15 +30,15 @@ SAP Build, SAP Work Zone, Experience Platforms
 
 ## Architecture Concerns
 
-- Business capability and value-stream alignment
-- Process architecture and customer journey integration
-- Customer, account, product, transaction, and interaction data
-- Application and platform architecture
+- Digital journey and experience capability alignment
+- Customer identity, profile and interaction data
+- Experience architecture and composable front ends
+- Self-service process orchestration
 - API, event, and integration architecture
-- AI, automation, and autonomy opportunities
-- Customer and employee experience
+- AI-powered personalization and assistance
+- Accessibility and omnichannel consistency
 - Security, identity, privacy, consent, and governance
-- Analytics, KPIs, and value realization
+- Digital adoption, completion, satisfaction, and value realization
 
 ## Autonomy Pattern
 
