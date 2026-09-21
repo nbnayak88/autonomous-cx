@@ -1,11 +1,22 @@
 # ASL3 — Sales Management
 
-**APQC CX Process Area:** Sales Management
-**CX Capability Area:** Opportunity Management, CPQ, Pipeline, Revenue
+**APQC CX Process Area:** Sales Management  
+**CX Capability Area:** Opportunity Management, CPQ, Pipeline, Revenue  
+**Bootcamp:** **Architecting Intelligent Revenue Organizations**
 
 ## Purpose
 
 Define the capability and architecture boundary for Sales Management within the Autonomous CX enterprise.
+
+## Bootcamp Focus
+
+**Architecting Intelligent Revenue Organizations** connects customer intelligence, selling processes and revenue operations.
+
+- Opportunity and pipeline management
+- Lead-to-opportunity and opportunity-to-order orchestration
+- Configure, Price, Quote (CPQ)
+- Sales intelligence and forecasting
+- Cross-sell, upsell and next-best-offer capabilities
 
 ## Capability Scope
 
@@ -19,15 +30,15 @@ SAP Sales Cloud, Salesforce Sales Cloud
 
 ## Architecture Concerns
 
-- Business capability and value-stream alignment
-- Process architecture and customer journey integration
-- Customer, account, product, transaction, and interaction data
-- Application and platform architecture
+- Revenue value-stream and sales capability alignment
+- Account, opportunity, product, pricing and transaction data
+- CRM and CPQ architecture
+- Sales process and workflow orchestration
 - API, event, and integration architecture
-- AI, automation, and autonomy opportunities
-- Customer and employee experience
-- Security, identity, privacy, consent, and governance
-- Analytics, KPIs, and value realization
+- AI-assisted selling and decisioning
+- Seller and customer experience
+- Security, identity, privacy, and governance
+- Pipeline, conversion, revenue, and value realization
 
 ## Autonomy Pattern
 
