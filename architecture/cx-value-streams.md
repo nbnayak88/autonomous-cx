@@ -1,11 +1,9 @@
 # CX Value Streams
 
 ## Core Pattern
-
 `Customer/Business Outcome → Customer Journey → Value Stream → Capabilities → Processes → Data → Applications → Technology → Experience → Outcome Measurement`
 
 ## Representative Value Streams
-
 1. **Acquire Customer** — Discover → Attract → Engage → Qualify → Convert
 2. **Grow Customer** — Understand → Personalize → Recommend → Sell → Expand
 3. **Serve Customer** — Recognize → Authenticate → Diagnose → Resolve → Follow Up
