@@ -1,11 +1,22 @@
 # AC04 — Commerce & Digital Channels
 
-**APQC CX Process Area:** Commerce & Digital Channels
-**CX Capability Area:** B2B/B2C Commerce, Marketplace, Omnichannel
+**APQC CX Process Area:** Commerce & Digital Channels  
+**CX Capability Area:** B2B/B2C Commerce, Marketplace, Omnichannel  
+**Bootcamp:** **Architecting Digital Commerce Enterprises**
 
 ## Purpose
 
 Define the capability and architecture boundary for Commerce & Digital Channels within the Autonomous CX enterprise.
+
+## Bootcamp Focus
+
+**Architecting Digital Commerce Enterprises** establishes an omnichannel commerce architecture across digital and physical customer touchpoints.
+
+- B2B and B2C commerce
+- Marketplace and partner commerce
+- Omnichannel journey orchestration
+- Product discovery, cart and checkout
+- Digital commerce personalization and optimization
 
 ## Capability Scope
 
@@ -19,15 +30,15 @@ SAP Commerce Cloud, Shopify, Magento
 
 ## Architecture Concerns
 
-- Business capability and value-stream alignment
-- Process architecture and customer journey integration
-- Customer, account, product, transaction, and interaction data
-- Application and platform architecture
+- Commerce capability and customer journey alignment
+- Product, catalog, pricing, inventory and transaction data
+- Digital channel and experience architecture
+- Cart, checkout and order orchestration
 - API, event, and integration architecture
-- AI, automation, and autonomy opportunities
-- Customer and employee experience
-- Security, identity, privacy, consent, and governance
-- Analytics, KPIs, and value realization
+- Personalization and AI-driven recommendations
+- Omnichannel consistency
+- Security, identity, privacy, and payment considerations
+- Conversion, revenue, and experience measurement
 
 ## Autonomy Pattern
 
