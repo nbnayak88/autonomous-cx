@@ -1,11 +1,22 @@
 # AOF8 — Order Fulfillment & Customer Operations
 
-**APQC CX Process Area:** Order Fulfillment & Customer Operations
-**CX Capability Area:** Order Management, Fulfillment, Returns
+**APQC CX Process Area:** Order Fulfillment & Customer Operations  
+**CX Capability Area:** Order Management, Fulfillment, Returns  
+**Bootcamp:** **Architecting Autonomous Customer Operations**
 
 ## Purpose
 
 Define the capability and architecture boundary for Order Fulfillment & Customer Operations within the Autonomous CX enterprise.
+
+## Bootcamp Focus
+
+**Architecting Autonomous Customer Operations** connects order orchestration, fulfillment visibility and post-purchase operations.
+
+- Order capture and orchestration
+- Fulfillment coordination
+- Delivery tracking and customer visibility
+- Returns, exchanges and refunds
+- Exception management and autonomous resolution
 
 ## Capability Scope
 
@@ -19,15 +30,15 @@ SAP SD, Order Management Systems, CX Integrations
 
 ## Architecture Concerns
 
-- Business capability and value-stream alignment
-- Process architecture and customer journey integration
-- Customer, account, product, transaction, and interaction data
-- Application and platform architecture
+- Order-to-delivery value-stream alignment
+- Order, fulfillment, inventory, delivery and return data
+- Order management and orchestration architecture
+- Real-time tracking and event architecture
 - API, event, and integration architecture
-- AI, automation, and autonomy opportunities
-- Customer and employee experience
-- Security, identity, privacy, consent, and governance
-- Analytics, KPIs, and value realization
+- AI-driven exception management
+- Customer visibility and post-purchase experience
+- Security, identity, privacy, and governance
+- Fulfillment performance, returns, service levels, and value realization
 
 ## Autonomy Pattern
 
