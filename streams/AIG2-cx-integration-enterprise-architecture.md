@@ -1,11 +1,22 @@
 # AIG2 — CX Integration & Enterprise Architecture
 
-**APQC CX Process Area:** CX Integration & Enterprise Architecture
-**CX Capability Area:** APIs, Middleware, Event Mesh, Identity
+**APQC CX Process Area:** CX Integration & Enterprise Architecture  
+**CX Capability Area:** APIs, Middleware, Event Mesh, Identity  
+**Bootcamp:** **Architecting Connected Customer Ecosystems**
 
 ## Purpose
 
 Define the capability and architecture boundary for CX Integration & Enterprise Architecture within the Autonomous CX enterprise.
+
+## Bootcamp Focus
+
+**Architecting Connected Customer Ecosystems** provides the integration and enterprise architecture backbone that connects customer capabilities, platforms, data and experiences.
+
+- API-led integration
+- Event-driven customer journeys
+- Identity and access integration
+- Enterprise application and data integration
+- Cross-domain architecture and interoperability
 
 ## Capability Scope
 
@@ -19,15 +30,15 @@ SAP Integration Suite/CPI, MuleSoft, Boomi, Kafka
 
 ## Architecture Concerns
 
-- Business capability and value-stream alignment
-- Process architecture and customer journey integration
-- Customer, account, product, transaction, and interaction data
-- Application and platform architecture
-- API, event, and integration architecture
-- AI, automation, and autonomy opportunities
-- Customer and employee experience
-- Security, identity, privacy, consent, and governance
-- Analytics, KPIs, and value realization
+- Enterprise capability and value-stream alignment
+- API, integration and event architecture
+- Customer identity and access architecture
+- Application, data and platform interoperability
+- Real-time event and journey orchestration
+- AI-agent and automation integration
+- Security, privacy, resilience and governance
+- Architecture standards and reusable integration patterns
+- End-to-end customer journey performance and value realization
 
 ## Autonomy Pattern
 
