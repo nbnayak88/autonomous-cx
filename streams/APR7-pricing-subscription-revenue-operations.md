@@ -1,19 +1,19 @@
-# AMK2 — Marketing & Demand Generation
+# APR7 — Pricing, Subscription & Revenue Operations
 
-**APQC CX Process Area:** Marketing & Demand Generation
-**CX Capability Area:** Campaigns, Personalization, Lead Generation
+**APQC CX Process Area:** Pricing, Subscription & Revenue Operations
+**CX Capability Area:** Billing, Subscription, Entitlements
 
 ## Purpose
 
-Define the capability and architecture boundary for Marketing & Demand Generation within the Autonomous CX enterprise.
+Define the capability and architecture boundary for Pricing, Subscription & Revenue Operations within the Autonomous CX enterprise.
 
 ## Capability Scope
 
-Campaigns, Personalization, Lead Generation
+Billing, Subscription, Entitlements
 
 ## Example Platforms
 
-SAP Emarsys, Salesforce Marketing Cloud, Adobe
+SAP BRIM, Zuora, Chargebee
 
 > Platform examples are illustrative. The capability is platform-neutral and may be implemented through one or more products, services, data platforms, or custom capabilities.
 
@@ -35,4 +35,4 @@ Observe → Understand → Decide → Recommend → Act → Verify → Learn
 
 ## Bootcamp
 
-**Architecting Autonomous Customer Engagement**
+**Architecting Recurring Revenue Enterprises**

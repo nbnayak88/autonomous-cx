@@ -1,19 +1,19 @@
-# AMK2 — Marketing & Demand Generation
+# AIG2 — CX Integration & Enterprise Architecture
 
-**APQC CX Process Area:** Marketing & Demand Generation
-**CX Capability Area:** Campaigns, Personalization, Lead Generation
+**APQC CX Process Area:** CX Integration & Enterprise Architecture
+**CX Capability Area:** APIs, Middleware, Event Mesh, Identity
 
 ## Purpose
 
-Define the capability and architecture boundary for Marketing & Demand Generation within the Autonomous CX enterprise.
+Define the capability and architecture boundary for CX Integration & Enterprise Architecture within the Autonomous CX enterprise.
 
 ## Capability Scope
 
-Campaigns, Personalization, Lead Generation
+APIs, Middleware, Event Mesh, Identity
 
 ## Example Platforms
 
-SAP Emarsys, Salesforce Marketing Cloud, Adobe
+SAP Integration Suite/CPI, MuleSoft, Boomi, Kafka
 
 > Platform examples are illustrative. The capability is platform-neutral and may be implemented through one or more products, services, data platforms, or custom capabilities.
 
@@ -35,4 +35,4 @@ Observe → Understand → Decide → Recommend → Act → Verify → Learn
 
 ## Bootcamp
 
-**Architecting Autonomous Customer Engagement**
+**Architecting Connected Customer Ecosystems**

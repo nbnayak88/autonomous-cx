@@ -1,19 +1,19 @@
-# AMK2 — Marketing & Demand Generation
+# ADI9 — Customer Data & Intelligence
 
-**APQC CX Process Area:** Marketing & Demand Generation
-**CX Capability Area:** Campaigns, Personalization, Lead Generation
+**APQC CX Process Area:** Customer Data & Intelligence
+**CX Capability Area:** CDP, Analytics, Segmentation, AI Insights
 
 ## Purpose
 
-Define the capability and architecture boundary for Marketing & Demand Generation within the Autonomous CX enterprise.
+Define the capability and architecture boundary for Customer Data & Intelligence within the Autonomous CX enterprise.
 
 ## Capability Scope
 
-Campaigns, Personalization, Lead Generation
+CDP, Analytics, Segmentation, AI Insights
 
 ## Example Platforms
 
-SAP Emarsys, Salesforce Marketing Cloud, Adobe
+SAP CDP, SAP Analytics Cloud, Databricks
 
 > Platform examples are illustrative. The capability is platform-neutral and may be implemented through one or more products, services, data platforms, or custom capabilities.
 
@@ -35,4 +35,4 @@ Observe → Understand → Decide → Recommend → Act → Verify → Learn
 
 ## Bootcamp
 
-**Architecting Autonomous Customer Engagement**
+**Architecting Customer Intelligence**
