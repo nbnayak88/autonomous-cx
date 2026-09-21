@@ -1,11 +1,9 @@
 # Autonomous CX Reference Architecture
 
 ## Purpose
-
-Define the master reference architecture for the Autonomous CX ecosystem and establish the common architectural language shared by the 12 CX streams.
+Define the master reference architecture for the Autonomous CX ecosystem and the common architectural language shared by the 12 CX streams.
 
 ## Architecture Layers
-
 1. Customer and Enterprise Strategy
 2. Customer Outcomes, Journeys, and Value Streams
 3. CX Capability and Process Architecture
@@ -22,11 +20,9 @@ Define the master reference architecture for the Autonomous CX ecosystem and est
 14. Value Realization and Continuous Improvement
 
 ## Reference Pattern
-
 `Customer Outcome → Journey → Value Stream → Capability → Process → Data → Application → Technology → AI → Integration → Experience → Measurement → Value`
 
 ## Autonomy Pattern
-
 `Observe → Understand → Decide → Recommend → Act → Verify → Learn`
 
-The architecture remains explicitly governed by policy, identity, privacy, security, auditability, and appropriate human oversight.
+Policy, identity, privacy, security, auditability, and appropriate human oversight remain explicit controls.
