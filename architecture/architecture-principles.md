@@ -12,5 +12,3 @@
 10. **Event-Driven Where Real-Time Context Matters**
 11. **Process-Centric Architecture**
 12. **Continuous Evolution through Evidence, Experimentation, and Learning**
-
-These principles govern the Autonomous CX master repository and its 12 architecture streams.
