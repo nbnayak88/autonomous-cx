@@ -1,11 +1,22 @@
 # ACX6 — Customer Experience & Loyalty
 
-**APQC CX Process Area:** Customer Experience & Loyalty
-**CX Capability Area:** Experience Management, Loyalty, Voice of Customer
+**APQC CX Process Area:** Customer Experience & Loyalty  
+**CX Capability Area:** Experience Management, Loyalty, Voice of Customer  
+**Bootcamp:** **Architecting Exceptional Customer Experiences**
 
 ## Purpose
 
 Define the capability and architecture boundary for Customer Experience & Loyalty within the Autonomous CX enterprise.
+
+## Bootcamp Focus
+
+**Architecting Exceptional Customer Experiences** connects experience measurement, customer feedback and loyalty into a continuous improvement system.
+
+- Experience measurement and journey analytics
+- Voice of Customer
+- Loyalty and rewards
+- Customer feedback and sentiment
+- Experience improvement and retention orchestration
 
 ## Capability Scope
 
@@ -19,15 +30,15 @@ Qualtrics, Medallia, SAP CX
 
 ## Architecture Concerns
 
-- Business capability and value-stream alignment
-- Process architecture and customer journey integration
-- Customer, account, product, transaction, and interaction data
-- Application and platform architecture
+- Journey, experience and loyalty capability alignment
+- Feedback, survey, sentiment and interaction data
+- Experience measurement architecture
+- Loyalty and rewards architecture
 - API, event, and integration architecture
-- AI, automation, and autonomy opportunities
-- Customer and employee experience
-- Security, identity, privacy, consent, and governance
-- Analytics, KPIs, and value realization
+- AI-driven sentiment and experience insights
+- Cross-channel experience consistency
+- Security, privacy, consent, and governance
+- NPS, CSAT, retention, advocacy, and value realization
 
 ## Autonomy Pattern
 
