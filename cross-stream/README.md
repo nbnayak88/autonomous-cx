@@ -2,8 +2,6 @@
 
 Cross-stream architecture contains concerns that span multiple Autonomous CX domains.
 
-Primary areas:
-
 - Customer Data Architecture
 - Application Architecture
 - Integration Architecture
@@ -12,5 +10,3 @@ Primary areas:
 - Experience Architecture
 - Event-Driven Architecture
 - Analytics & Customer Intelligence
-
-Cross-stream architecture establishes reusable enterprise building blocks and prevents duplicated patterns across streams.
