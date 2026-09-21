@@ -1,11 +1,22 @@
 # ADI9 — Customer Data & Intelligence
 
-**APQC CX Process Area:** Customer Data & Intelligence
-**CX Capability Area:** CDP, Analytics, Segmentation, AI Insights
+**APQC CX Process Area:** Customer Data & Intelligence  
+**CX Capability Area:** CDP, Analytics, Segmentation, AI Insights  
+**Bootcamp:** **Architecting Customer Intelligence**
 
 ## Purpose
 
 Define the capability and architecture boundary for Customer Data & Intelligence within the Autonomous CX enterprise.
+
+## Bootcamp Focus
+
+**Architecting Customer Intelligence** creates the data and intelligence foundation for context-aware customer decisions.
+
+- Customer data platform and 360
+- Identity resolution and segmentation
+- Customer analytics and insights
+- Predictive and prescriptive intelligence
+- AI-ready customer data products
 
 ## Capability Scope
 
@@ -19,15 +30,15 @@ SAP CDP, SAP Analytics Cloud, Databricks
 
 ## Architecture Concerns
 
-- Business capability and value-stream alignment
-- Process architecture and customer journey integration
-- Customer, account, product, transaction, and interaction data
-- Application and platform architecture
+- Customer data capability and value-stream alignment
+- Identity, profile, interaction and behavioral data
+- Data platform and data product architecture
+- Data quality, lineage, metadata and governance
 - API, event, and integration architecture
-- AI, automation, and autonomy opportunities
-- Customer and employee experience
-- Security, identity, privacy, consent, and governance
-- Analytics, KPIs, and value realization
+- AI/ML and decision-intelligence architecture
+- Privacy, consent and responsible data use
+- Analytics and experience activation
+- Data, insight, decision, and business value realization
 
 ## Autonomy Pattern
 
