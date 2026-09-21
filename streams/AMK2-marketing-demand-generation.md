@@ -1,11 +1,22 @@
 # AMK2 — Marketing & Demand Generation
 
-**APQC CX Process Area:** Marketing & Demand Generation
-**CX Capability Area:** Campaigns, Personalization, Lead Generation
+**APQC CX Process Area:** Marketing & Demand Generation  
+**CX Capability Area:** Campaigns, Personalization, Lead Generation  
+**Bootcamp:** **Architecting Autonomous Customer Engagement**
 
 ## Purpose
 
 Define the capability and architecture boundary for Marketing & Demand Generation within the Autonomous CX enterprise.
+
+## Bootcamp Focus
+
+**Architecting Autonomous Customer Engagement** focuses on intelligent, personalized and continuously optimized customer engagement.
+
+- Demand generation and campaign orchestration
+- Audience segmentation and personalization
+- Lead generation and nurturing
+- Next-best-action and recommendation
+- Marketing automation and journey optimization
 
 ## Capability Scope
 
@@ -19,15 +30,15 @@ SAP Emarsys, Salesforce Marketing Cloud, Adobe
 
 ## Architecture Concerns
 
-- Business capability and value-stream alignment
-- Process architecture and customer journey integration
-- Customer, account, product, transaction, and interaction data
-- Application and platform architecture
+- Customer journey and marketing value-stream alignment
+- Audience, consent, campaign and interaction data
+- Personalization and decisioning architecture
+- Marketing automation and orchestration
 - API, event, and integration architecture
-- AI, automation, and autonomy opportunities
-- Customer and employee experience
-- Security, identity, privacy, consent, and governance
-- Analytics, KPIs, and value realization
+- AI-driven recommendations and next-best-action
+- Experience consistency across channels
+- Security, privacy, consent, and governance
+- Campaign effectiveness and value realization
 
 ## Autonomy Pattern
 
