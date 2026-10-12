@@ -205,6 +205,31 @@ The learning layer connects the 12 streams to:
 
 The learning ecosystem is modular and continuously evolving rather than a fixed curriculum.
 
+
+## CX Gameboard Learning Model
+
+The **Autonomous CX Gameboard Model** turns learning into customer-centred missions with measurable outputs. It adapts the six-part Business Gameboard pattern to CX: **Player Identity → Winning Promise → Level Ladder → Mission Design → Reward Engine → Growth Loop**.
+
+Read the complete guide: [Autonomous CX Gameboard Model](gameboard_model_autonomous_cx.md).
+
+### Eight Learning Formats
+
+Use the format that matches the intended learner behavior and evidence:
+
+| Format | Best purpose | Example CX use |
+|---|---|---|
+| Webinar | Awareness and orientation | CX Friction Finder |
+| MasterClass | Expert patterns and advanced decisions | Journey Architecture MasterClass |
+| Workshop | Practise one focused skill | Journey Mapping Studio |
+| Bootcamp | Build integrated capability through sequenced work | Omnichannel CX Architect Bootcamp |
+| Hackathon | Solve a challenge and demonstrate a solution | Fix the Broken Journey Hackathon |
+| 21-day Challenge | Build consistency through daily missions | Daily Customer Empathy |
+| Sprint | Complete one defined deliverable in a short window | CX Measurement Sprint |
+| SuperClass | Strategic, high-authority thinking | Autonomous CX Strategy SuperClass |
+
+A format is not a curriculum by itself. Combine formats where useful, and make clear the output and evidence expected from each.
+
+
 ## Status
 
 **Foundation established — Autonomous CX master repository initialized**
