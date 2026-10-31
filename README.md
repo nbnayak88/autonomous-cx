@@ -240,3 +240,9 @@ The repository will evolve incrementally as the 12 streams, cross-stream archite
 
 **SuccessLabs Academy**  
 *Architecting Experiences for a Better World*
+
+## Free 7-Day CX Origin Story Challenge
+
+[TagMango Level Up — The Origin Story: Customer Experience](learning/challenges/the-origin-story/cx-7-day-tagmango-level-up.md) includes a welcome post, seven beginner-friendly daily missions and a final celebration. It connects mindset, social impact, 1970–2050 context, text-first submissions and customer-experience experiments. A coach-only appendix links the Origin Story to requirements, testing, go-live readiness and outcomes through traceability.
+
+[Explore the SuccessLabs Academy webinar](https://hub.successlabsacademy.com/web/checkout/694af8798dd872a219700dd3). The challenge is free; further learning is optional.
